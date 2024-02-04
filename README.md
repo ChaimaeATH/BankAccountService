@@ -1,5 +1,5 @@
 
-# Web Servive Rest GraphQL
+# Web Service Rest GraphQL
 
 
 
